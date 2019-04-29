@@ -1,0 +1,33 @@
+﻿
+/*Common For Max 1366*/
+@media only screen and (max-width: 1439px) {
+    .wp1{width: 100%;}
+    #hd{height:100px;padding: 0 10px;}
+    .logo{height: 100px;}
+    .logo img{
+        height: 30%;
+        position: relative;
+        top: -5px;
+    }
+    
+    .nav{padding-top: 48px;}
+    .soBox {margin-top: 36px;}
+
+    .subBox{padding-left: 10px;padding-right: 10px;top: 103px;}
+
+}
+
+/*Common For Max 1200*/
+@media only screen and (max-width: 1365px) {
+    
+}
+
+
+/*Common For Max 960*/
+@media only screen and (max-width: 1199px) {
+    
+}
+
+
+
+
